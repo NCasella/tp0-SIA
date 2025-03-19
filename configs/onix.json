@@ -1,0 +1,18 @@
+[
+  {
+      "pokemon": "onix",
+      "pokeball": "pokeball"
+  },
+  {
+      "pokemon": "onix",
+      "pokeball": "ultraball"
+  },
+  {
+      "pokemon": "onix",
+      "pokeball": "fastball"
+  },
+  {
+      "pokemon": "onix",
+      "pokeball": "heavyball"
+  }
+]

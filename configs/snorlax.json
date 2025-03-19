@@ -1,0 +1,18 @@
+[
+  {
+      "pokemon": "snorlax",
+      "pokeball": "pokeball"
+  },
+  {
+      "pokemon": "snorlax",
+      "pokeball": "ultraball"
+  },
+  {
+      "pokemon": "snorlax",
+      "pokeball": "fastball"
+  },
+  {
+      "pokemon": "snorlax",
+      "pokeball": "heavyball"
+  }
+]

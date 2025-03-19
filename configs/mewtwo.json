@@ -1,0 +1,18 @@
+[
+    {
+        "pokemon": "mewtwo",
+        "pokeball": "pokeball"
+    },
+    {
+        "pokemon": "mewtwo",
+        "pokeball": "ultraball"
+    },
+    {
+        "pokemon": "mewtwo",
+        "pokeball": "fastball"
+    },
+    {
+        "pokemon": "mewtwo",
+        "pokeball": "heavyball"
+    }
+  ]

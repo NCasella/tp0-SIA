@@ -1,0 +1,11 @@
+{
+  "attempts": 10000,
+  "noise": 0.15,
+  "lvl": 100,
+  "lvl_steps": 10,
+  "hp_steps": 10,
+  "hp_percentage": 1.0,
+  "varying_level": true,
+  "varying_hp": false,
+  "varying_status": false
+}
